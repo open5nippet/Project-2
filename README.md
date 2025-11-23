@@ -23,8 +23,14 @@ The system runs entirely in the **console** and uses classes for clean structure
 - ✔ Simple CLI menu system  
 
 ---
+📁 File Structure
+project-folder/ │ ├── books.txt ├── library manager.py
+└── README.md
+---
 
-## 📄 Data Format  
-Each book is stored as:  
-Example:  
+▶️ Running the Program
+Run the Python file:
 
+python library manager.py
+
+Follow the on-screen menu to manage the library.
