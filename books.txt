@@ -1,2 +1,2 @@
-python,dd,33333333333,available
-Learning Python,Mark Lutz,9780596158064,available
+The Psychology of Money,Morgan Housel,9789395970334,available
+Atomic Habits,James Clear,9781847941831,available
